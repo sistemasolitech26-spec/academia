@@ -1,4 +1,4 @@
-# Academia Olitech v2.1 - Passo a passo
+# Academia Olitech v2.2 - Passo a passo
 
 ## Login padrão
 Usuário: `olitech`  
@@ -32,4 +32,4 @@ Senha: `051309`
 5. Clique em Create Web Service.
 
 ## Observação
-A v2.1 funciona em modo localStorage se o Supabase não for configurado. Com Supabase configurado, o sistema fica preparado para evoluir para persistência online completa.
+A v2.2 funciona em modo localStorage se o Supabase não for configurado. Com Supabase configurado, o sistema fica preparado para evoluir para persistência online completa.

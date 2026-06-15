@@ -1,6 +1,6 @@
 {
-  "name": "academia-olitech-v2.1",
-  "version": "2.1.0",
+  "name": "academia-olitech-v2.2",
+  "version": "2.2.0",
   "description": "Sistema de Academia/Aluno Olitech",
   "main": "server.js",
   "scripts": {
