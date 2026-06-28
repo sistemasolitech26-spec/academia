@@ -1,4 +1,4 @@
-# Academia Olitech v2.2 - Passo a passo
+# Academia Olitech v2.3 - Passo a passo
 
 ## Login padrão
 Usuário: `olitech`  
@@ -32,4 +32,13 @@ Senha: `051309`
 5. Clique em Create Web Service.
 
 ## Observação
-A v2.2 funciona em modo localStorage se o Supabase não for configurado. Com Supabase configurado, o sistema fica preparado para evoluir para persistência online completa.
+A v2.3 funciona em modo localStorage se o Supabase não for configurado. Com Supabase configurado, o sistema fica preparado para evoluir para persistência online completa.
+
+## Novidades v2.3
+- Quantidade de séries por exercício.
+- Cadastro dos exercícios por dia do treino: A, B, C, D, E e Full Body.
+- Campo de repetições, carga, descanso e observação por exercício.
+- Índice de perda/gasto de caloria por exercício e por treino.
+- Impressão do treino do dia com check-list de concluído.
+
+Atenção: se o navegador mantiver dados antigos, use uma janela anônima ou limpe o localStorage do site para carregar os dados iniciais da v2.3.
