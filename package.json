@@ -1,17 +1,1 @@
-{
-  "name": "academia-olitech-v2.3",
-  "version": "2.3.0",
-  "description": "Sistema de Academia/Aluno Olitech",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "@supabase/supabase-js": "^2.45.4"
-  },
-  "engines": {
-    "node": "20.x"
-  }
-}
+{"name":"academia-olitech-v3","version":"3.0.0","description":"Sistema Academia/Aluno V3 - CRUD completo de treinos e exercicios","main":"server.js","scripts":{"start":"node server.js","dev":"node server.js"},"dependencies":{"bcryptjs":"^2.4.3","better-sqlite3":"^9.6.0","cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.19.2","jsonwebtoken":"^9.0.2","multer":"^1.4.5-lts.1"},"engines":{"node":"20.x"}}
